@@ -6,7 +6,7 @@ public class Lab002_CommentLine
     {
         System.out.println("single comment line");
        // single line comment
-        git config --global user.name "ParvathiSanjay"
+
 
     }
 }
