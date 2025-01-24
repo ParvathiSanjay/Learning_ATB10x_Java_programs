@@ -10,8 +10,7 @@ public class Arithmetic_operators {
         System.out.println("Division of a and b:" + (a/b));
         System.out.println("Mod of a and b:" + (a%b));
         System.out.println("Mod of a and b:" + (a%b));
-        parvathi.gmys@gmail.com
-                ssh-keygen -t ed25519 -C "parvathi.gmys@gmail.com"
+
     }
 
 
