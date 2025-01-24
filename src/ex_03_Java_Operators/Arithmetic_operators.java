@@ -9,6 +9,8 @@ public class Arithmetic_operators {
         System.out.println("Multi of a and b:" + (a*b));
         System.out.println("Division of a and b:" + (a/b));
         System.out.println("Mod of a and b:" + (a%b));
+        System.out.println("Mod of a and b:" + (a%b));
+
     }
 
 
