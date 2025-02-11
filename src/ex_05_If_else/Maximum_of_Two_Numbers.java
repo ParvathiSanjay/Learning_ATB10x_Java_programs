@@ -18,6 +18,6 @@ public class Maximum_of_Two_Numbers {
             System.out.println("max num=" + num2);
         }
     else
-            System.out.println("num are equal"2);
+            System.out.println("num are equal");
     }
 }
