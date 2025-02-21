@@ -12,7 +12,7 @@ public class Weeknum_switch_Case {
             case"sunday": System.out.println(1); break;
             case"monday": System.out.println(2); break;
             case"tuesday": System.out.println(3); break;
-            case"wednesday": System.out.println(4); break;
+            case"Wednesday": System.out.println(4); break;
             case"Thursday": System.out.println(5); break;
             case"Friday": System.out.println(6); break;
             case"Saturday": System.out.println(7); break;

@@ -25,6 +25,7 @@ public class Week_names
             } else if (day == 7) {
                 System.out.println("saturday");
             } else
+
                 System.out.println(" invalid week number");
 
     sc.close();

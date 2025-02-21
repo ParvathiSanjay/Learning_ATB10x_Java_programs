@@ -9,6 +9,7 @@ public class Ass_1 {
         int a = sc.nextInt();
         System.out.println(" enter the value for b =");
         int b=sc.nextInt();
+
                 if (a>b)
                 {
                     System.out.println("a is largest number");

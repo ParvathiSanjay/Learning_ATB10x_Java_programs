@@ -9,6 +9,7 @@ public class largest_num_Using_Ternary_operator {
         int a = sc.nextInt();
         System.out.println("enter the b value");
         int b= sc.nextInt();
+
         int result= (a>b)? a: b;
         System.out.println("largest number ="+ result);
         sc.close();
