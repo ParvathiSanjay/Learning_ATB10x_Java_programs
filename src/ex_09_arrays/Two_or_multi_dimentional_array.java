@@ -49,9 +49,13 @@ public class Two_or_multi_dimentional_array {
 
         */
 
-        for (int x[] :a )
+        for (int arr[] :a )
         {
-            for ( int r:x )
+            for ( int x :arr )
+            {
+                System.out.print(x + " ");
+            }
+            System.out.println( );
          }
 
 
