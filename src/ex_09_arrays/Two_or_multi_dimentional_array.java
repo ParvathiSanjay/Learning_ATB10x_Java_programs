@@ -49,15 +49,30 @@ public class Two_or_multi_dimentional_array {
 
         */
 
-        for (int arr[] :a )
+        /* for (int arr[] :a )
         {
             for ( int x :arr )
             {
                 System.out.print(x + " ");
             }
             System.out.println( );
-         }
-
+         }*/
+        /* for(int r=0; r<a.length;r++)
+        {
+            for(int c=0; c<a[r].length;c++)
+            {
+                System.out.print(a[r][c] +" ");
+            }
+            System.out.println( );
+        }*/
+        for(int r[]: a)
+        {
+            for (int x:r)
+            {
+                System.out.print(x + " ");
+            }
+            System.out.println( );
+        }
 
 
 

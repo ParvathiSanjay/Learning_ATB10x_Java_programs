@@ -25,10 +25,10 @@ public class single_dimentional_array {
 
         // Approach 2
 
-        int a[]={100,200,300,400,500};
+        int a[]={200,300,400,800,600};
         //int a[]={};
         // Find Length of an array
-        System.out.println(" length of an array: "+ a.length);
+       // System.out.println(" length of an array: "+ a.length);
         // Read single value from an array
        // System.out.println(a[4]);// here 4 is index
 
@@ -40,12 +40,31 @@ public class single_dimentional_array {
         {
             System.out.println(a[i]);
         }*/
+/*for (int i=0; i<=4;i++)
+{
+    System.out.println(a[i]);
 
-        //Enhanced for loop/ for..each loop
-        for (int x:a)
+        }*/
+        /*for (int i=0; i<5;i++)
+        {
+            System.out.println(a[i]);
+        }*/
+       /* for(int i=0; i<a.length;i++)
+        {
+            System.out.println(a[i]);
+        }*/
+        /*for( int i=0; i<a.length-1;i++)
+        {
+            System.out.println(a[i]);
+        }*/
+       /* for(int i=0; i<=4;i++)
+        {
+            System.out.println(a[i]);
+        }*/
+        //enhanced for loop or for each loop
+        for(int x:a )
         {
             System.out.println(x);
         }
-
     }
 }
