@@ -7,7 +7,7 @@ public class ThisKeyword {
         this.x=x;
         this.y=y;
     } */
-    void setdata( int x, int y)
+    void setdata( int x, int y          )
     {
        this.x=x;
        this.y=y;
