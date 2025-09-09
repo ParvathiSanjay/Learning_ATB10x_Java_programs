@@ -1,6 +1,6 @@
 package OOPS_Class_objects;
 
-public class C1 implements i1,i2 {
+public class C1 extends C2 implements i1,i2 {
     @Override
     public void m1() {
         System.out.println(x);
@@ -15,5 +15,6 @@ public class C1 implements i1,i2 {
         C1 c1obj=new C1();
         c1obj.m1();
         c1obj.m2();
+        c1obj.m3();
     }
 }
